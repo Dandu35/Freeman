@@ -1,0 +1,15 @@
+Dia1 20/04/2023: 
+                - Hemos pensado la idea y creado el GitHub compartido. 
+                - Creacion de clases principales para la interfaz y generar interfaz con un rectangulo interactivo (W,A,S,D). 
+                - Añadido Identificador de Inputs de Raton y Teclado.
+                - Para la familiarización con la interfaz hemos creado un FPS.
+                - Simulamos el Dvd en movimiento de las TV antiguas a modo prueba para ver las principales funciones de la Intefaz 
+
+Dia2 25/04/2023:
+                - Nos cargamos el proyecto antiguo por probelmas 
+                - Creamos un nuevo repositorio en GitHub
+                - Creamos nuevo proyecto con nueva interfaz grafica JavaFx
+
+Dia3 27/04/2023:
+                - Creamos la interfaz
+                - Añadimos gameLoop , imagen de fondo, personaje(Sin animar) y controlamos moviento de jugador           
